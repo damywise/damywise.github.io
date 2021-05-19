@@ -2,7 +2,7 @@
 Welcome to my personal notes
 
 Mata pelajaran:
-- [[Bahasa Inggris](UM/SIMAK%20UI/ENG/SIMAK%202019%20ENG.md)]
+- [[Bahasa Inggris](UM/SIMAK%20UI/SIMAK%20ENG.md)]
 - [Bahasa Indonesia] Not yet available
 - [Matdas] Not yet available
 - [Matipa] Not yet available
