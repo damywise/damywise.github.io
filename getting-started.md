@@ -1,1 +1,2 @@
-# Foamify
+# Getting Started
+
