@@ -10,4 +10,4 @@ Mata pelajaran:
 - [[Kimia](UM/SIMAK%20UI/SIMAK%20KIM.md)]
 - [Biologi] Not yet available
 
-[[X_Misc]]
+[[X_Misc](UM/Pahamify%20SIMAK%20UI/X_Misc.md)]
