@@ -62,12 +62,13 @@ Kalau energinya sudah naik, kita pelajari hal yang kita enggak suka
 
 ## **Spaced repetition**
 
-Petakan "peta"kan
-Alami (mengalami)
-Hubungkan | Hubungkan dengan materi sebelumnya, dengan contoh sehari-hari, dengan pengalaman sebelumnya. Tapi paling enak itu hubungkan dengan bab lain.
-Aplikasikan | Mind mapping, tapi lebih enak soal.
-Monitor | Cek lagi, evaluasi lagi. Berapa sih yang sudah saya bisa?
-Iterasi | Ulang lagi dari awal, apa lagi sih yang mau saya ...
+## PAHAMI Framework
+    Petakan "peta"kan
+    Alami (mengalami)
+    Hubungkan | Hubungkan dengan materi sebelumnya, dengan contoh sehari-hari, dengan pengalaman sebelumnya. Tapi paling enak itu hubungkan dengan bab lain.
+    Aplikasikan | Mind mapping, tapi lebih enak soal.
+    Monitor | Cek lagi, evaluasi lagi. Berapa sih yang sudah saya bisa?
+    Iterasi | Ulang lagi dari awal, apa lagi sih yang mau saya ...
 
 ## **Makanan yang bagus buat otak**
 ## **Makanan yang bikin otak gak bekerja**
