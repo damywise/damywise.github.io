@@ -9,3 +9,5 @@ Mata pelajaran:
 - [Fisika] Not yet available
 - [[Kimia](UM/SIMAK%20UI/SIMAK%20KIM.md)]
 - [Biologi] Not yet available
+
+[[X_Misc]]
