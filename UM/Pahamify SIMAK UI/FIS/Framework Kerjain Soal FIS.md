@@ -1,3 +1,5 @@
+Framework Kerjain Soal FIS
+
 # Framework Kerjain Soal FIS
 Aku punya framework kaya gini, sebenernya framework ini aku ajarin ke anak-anak yang mau ikut OSN, tapi ada baiknya kalian tau juga wkwk
 Langkah mengerjakan soal fisika:

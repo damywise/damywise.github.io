@@ -1,3 +1,5 @@
+SIMAK KIM
+
 # Kimia Pahamify SIMAK UI
 
 - Tips Belajar Kimia
