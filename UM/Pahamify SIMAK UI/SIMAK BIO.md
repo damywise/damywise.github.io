@@ -3,4 +3,4 @@ SIMAK BIO
 # Biologi Pahamify SIMAK UI
 
 - Notes
-  - [[2021-05-20](2021-05-20)]
+  - [[BIO-2021-05-20]]
