@@ -8,3 +8,5 @@
 [[IND](UM/Pahamify%20SIMAK%20UI/SIMAK%20IND.md)]
 [[ENG](UM/Pahamify%20SIMAK%20UI/SIMAK%20ENG.md)]
 [[MATDAS](UM/Pahamify%20SIMAK%20UI/SIMAK%20MATDAS.md)]
+
+[[Study Coach](UM/Pahamify%20SIMAK%20UI/Belajar%20Cara%20Belajar.md)]
