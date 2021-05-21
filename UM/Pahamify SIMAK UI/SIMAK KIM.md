@@ -19,4 +19,5 @@ SIMAK KIM
          - [ ] Kespontanan E0 > 0
     - [ ] Kimia Organik
 - Notes
-  -  [[2021-05-19](KIM/KIM-2021-05-19.md)]
+  -  [[KIM-2021-05-19](KIM/KIM-2021-05-19.md)]
+  -  [[KIM-2021-05-20](KIM/KIM-2021-05-20.md)]

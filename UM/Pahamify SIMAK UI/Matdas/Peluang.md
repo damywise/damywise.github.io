@@ -2,7 +2,7 @@ Peluang
 
 # Peluang
 **Peluang** menjelaskan tentang bagaimana suatu kejadian dapat terjadi.
-$$P(A)=\frac{k}{n} $$
+$$P(A)=\frac{k}{n}$$
 $$k \ge n$$
 -	$A$ = suatu kejadian
 -	$P(A)$ = peluang dari kejadian A
