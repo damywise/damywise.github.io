@@ -118,3 +118,118 @@ atau:
 
 ![](../../../attachments/2021-05-22-14-09-15.png)
 ![](../../../attachments/2021-05-22-14-11-38.png)
+
+
+
+## Kalor dan Perpindahan Kalor
+
+### Kalor
+**Kalor** adalah energi yang berpindah dari satu sistem ke sistem lainnya karena ada **perbedaan suhu**. Kalor akan berpindah dari benda yang suhunya tinggi ke yang suhunya lebih rendah. 
+Satuan internasional kalor adalah Joule dimana satu kalori sama dengan 4186 Joule. ($1\space\text{kal}=4186\space\text{J}$)
+
+### Perpindahan Kalor
+Secara umum, besarnya perpindahan kalor dapat dinyatakan dengan persamaan:
+$$Q=m\cdot c\cdot\triangle T$$
+$m$ = Massa zat yang menerima atau melepas kalor (kg)
+$c$ = Kalor jenis zat ($\text{J/kg}^{\text{o}}\text{C}$)
+$\triangle T$ = Perubahan suhu  ($^{\text{o}}\text{C}$)
+
+### Kapasitas Kalor
+
+Kapasitas kalor adalah jumlah kalor yang diserap oleh benda bermassa tertentu untuk menaikkan suhu sebesar $1^{\text{o}}\text{C}$.
+
+Kapasitas kalor dapat dinyatakan dengan persamaan:
+$$C = m\cdot c \text{ atau } C = \frac{Q}{\triangle T}$$
+
+$C$ = Kapasitas kalor ($J/K$)
+$Q$ = Banyaknya kalor ($J$)
+$\triangle T$ = Perubahan suhu ($K$)
+
+###Asas Black
+Untuk mencapai kondisi **kesetimbangan termal** pada suatu pencampuran zat, maka besarnya kalor yang dilepaskan zat satu harus sama dengan besarnya kalor yang diterima oleh zat dua.
+$$Q_{lepas}=Q_{terima}$$
+
+$Q_{lepas}$ adalah jumlah kalor milik zat dengan suhu lebih tinggi dari zat lainnya dan $Q_{terima}$ adalah jumlah kalor milik zat dengan suhu lebih rendah dari zat lainnya. Dengan mengadopsi rumus besarnya perpindahan kalor, maka persamaan asas black menjadi :
+$$m_{lepas}\cdot c_{lepas}\cdot\triangle T = m_{terima}\cdot c_{terima}\cdot \triangle T$$
+
+​$$m_{lepas}\cdot c_{lepas}\cdot (T_{lepas} - T_{campuran}) = m_{terima}\cdot c_{terima}\cdot (T_{campuran} - T_{terima})$$
+
+
+$$$Perubahan Wujud
+Perubahan suhu dapat menyebabkan wujud dari suatu zat berubah. Contohnya pada air.
+![](../../../attachments/2021-05-22-16-05-58.png)
+Pada grafik di atas, air mengalami perubahan wujud seiring dengan kenaikan suhu yang diberikan. Proses perubahan wujud tersebut tentunya terjadi karena adanya perpindahan kalor, yang jika dilihat pada grafik di atas, terdiri dari lima tahap perpindahan kalor.
+1. $Q_1$$(-^{\text{o}}\text{C}$ sampai $0^{\text{o}}\text{C}0 $)
+
+Pada fase ini air berbentuk zat padat (es). Besarnya perpindahan kalor:
+$$Q=m\cdot c\cdot \triangle TQ=m⋅c⋅△T$$
+
+2. $Q_2(0^{\text{o}}\text{C}$)
+
+Pada fase ini, es mulai mengalami perubahan wujud, yaitu mencair. Besarnya perpindahan kalor:
+$$Q=m\cdot L_f$$
+di mana $L_f$ adalah kalor lebur ($J/kg$)
+
+3. $Q_3$($0^{\text{o}}\text{C}$ sampai $100^{\text{o}}\text{C}$)
+
+Pada fase ini wujud air sudah menjadi zat cair. Besarnya perpindahan kalor:
+$$Q=m \cdot c\cdot \triangle T$$
+
+4. $Q_4$($100^{\text{o}}\text{C}$)
+
+Pada fase ini, air mulai mengalami perubahan wujud, yaitu menguap. Besarnya perpindahan kalor:
+$$Q=m\cdot L_v$$
+di mana $L_v$ adalah kalor didih ($J/kg$)
+
+5. $Q_5$($100^{\text{o}}\text{C}$ sampai $t^{\text{o}}\text{C}t$)
+
+Pada fase ini air akan terus mengalami penguapan seiring bertambahnya suhu yang diberikan. Besarnya perpindahan kalor:
+$$Q=m \cdot c\cdot \triangle T$$
+
+### CARA PERPINDAHAN KALOR
+
+#### A. Konduksi
+
+Proses perpindahan panas melalui benda padat.
+
+Dalam persamaan, jumlah kalor yang berpindah dalam satuan waktu adalah:
+
+$$\frac{Q}{t}=\frac{k\cdot A\cdot \Delta T}{L}$$
+$\frac{Q}{t}$ = Laju kalor konduksi ($J/s$)
+
+$k$ = Konduktivitas termal zat ($W/m K$ atau $W/m^{\text{o}}\text{C}$)
+$A$ = Luas permukaan zat ($\text{m}^2$)
+$\triangle T$ = Perbedaan suhu ($K$ atau $^{\text{o}}\text{C}$)
+$L$ = Ketebalan suatu zat ($m$)
+
+Contoh : ujung sendok yang didekatkan dengan lilin lama kelamaan ujung sendok yang lainnya akan terasa panas.
+
+#### B. Konveksi 
+Proses perpindahan panas melalui benda cair dan gas.
+
+Dalam persamaan, jumlah kalor yang berpindah dalam satuan waktu adalah:
+$$\frac{Q}{t}=h\cdot A\cdot \Delta T$$
+
+$\frac{Q}{t}$ = Laju kalor konveksi ($J/s$)
+$h$ = Koefisien konveksi ($\text{J/s}\space\text{m}^2\space\text{K}$)
+$A$ = Luas permukaan zat ($\text{m}^2$)
+$\triangle T$ = Perbedaan suhu ($K$ atau $^{\text{o}}\text{C}$)
+
+Contoh : adanya angin darat dan angin laut, proses memanaskan air dalam teko.
+
+#### Radiasi
+Perpindahan panas tanpa melalui zat perantara (melalui gelombang elektromagnetik).
+
+Dalam persamaan, jumlah kalor yang berpindah dalam satuan waktu adalah:
+$$\frac{Q}{t}=e\cdot \sigma\cdot A\cdot T^4$$
+
+$\frac{Q}{t}$ = Laju kalor radiasi ($J/s$)
+$e$ = Emisivitas atau kemampuan suatu benda untuk memancarkan radiasi kalor dibandingin sama benda hitam sempurna (e = 1). Emisivitas tidak punya satuan, dan nilainya berkisar antara 0 dan 1 ($0\leq e\leq 1$), tergantung jenis zatnya. Makin besar nilai emisivitasnya, makin besar benda tersebut memancarkan radiasi.
+$\sigma$ = Tetapan Stefan Boltzmann; dalam satuan SI nilainya sama dengan $5{,}67\times 10^{-8}W/m^2\text{K}^4$
+$A$ = Luas permukaan benda ($\text{m}^2$)
+$T$ = Suhu benda ($K$)
+
+Contoh : cahaya matahari yang menyinari bumi.
+
+### Soal Asas Black
+

@@ -1,12 +1,12 @@
 # Foamify
 
-[[MTK](UM/Pahamify%20SIMAK%20UI/SIMAK%20MTK.md)]
-[[FIS](UM/Pahamify%20SIMAK%20UI/SIMAK%20FIS.md)]
-[[KIM](UM/Pahamify%20SIMAK%20UI/SIMAK%20KIM.md)]
-[[BIO](UM/Pahamify%20SIMAK%20UI/SIMAK%20BIO.md)]
+[[SIMAK MTK]]
+[[SIMAK FIS]]
+[[SIMAK KIM]]
+[[SIMAK BIO]]
 
-[[IND](UM/Pahamify%20SIMAK%20UI/SIMAK%20IND.md)]
-[[ENG](UM/Pahamify%20SIMAK%20UI/SIMAK%20ENG.md)]
-[[MATDAS](UM/Pahamify%20SIMAK%20UI/SIMAK%20MATDAS.md)]
+[[SIMAK IND]]
+[[SIMAK ENG]]
+[[SIMAK MATDAS]]
 
-[[Study Coach](UM/Pahamify%20SIMAK%20UI/Belajar%20Cara%20Belajar.md)]
+[[Study Coach]]
