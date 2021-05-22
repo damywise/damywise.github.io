@@ -3,5 +3,7 @@ SIMAK Fisika
 # SIMAK Fisika
 
 - Tips Belajar Fisika
-  - [[Belajar Cepat FIS](FIS/Belajar%20Cepat%20FIS.md)]
-  - [[Framework Kerjain Soal FIS](framew)]
+  - [[Belajar Cepat FIS]]
+  - [[Framework Kerjain Soal FIS]]
+- Materi Fisika
+  1. [[Suhu, Gas, dan Termodinamika]]
