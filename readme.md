@@ -9,4 +9,4 @@
 [[SIMAK ENG]]
 [[SIMAK MATDAS]]
 
-[[Study Coach]]
+![[Belajar Cara Belajar]]
